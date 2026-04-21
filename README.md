@@ -51,3 +51,4 @@ Online Retail transactional dataset containing order, product, customer, and cou
 
 ## Additional Analysis
 - Customer Segmentation (RFM Analysis) – see segmentation_README.md
+- SQL-based business analysis answering key questions on revenue, customers, and product performance. See sql_README.md
