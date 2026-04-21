@@ -48,3 +48,6 @@ Online Retail transactional dataset containing order, product, customer, and cou
 - KPI reporting
 - Data visualisation
 - Business insight generation
+
+## Additional Analysis
+- Customer Segmentation (RFM Analysis) – see segmentation_README.md
